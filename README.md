@@ -8,3 +8,7 @@ A Flutter app for creating and viewing live stream using videosdk package.
 4. Replace the AUTH_TOKEN with your generated token in .env file (AUTH_TOKEN = "TEMPORARY-TOKEN" // replace this)
 5. Do "flutter run -d chrome" for (WEB APP)
 
+![Screenshot 2024-06-08 192155](https://github.com/mahira13/LiveStreaming_videosdk/assets/73304467/64c47095-4539-4259-a6d6-789991bf6c5d)
+![Screenshot 2024-06-08 192230](https://github.com/mahira13/LiveStreaming_videosdk/assets/73304467/8cd87211-2c2e-46c6-b8a7-5a3a10695786)
+![Screenshot 2024-06-08 192406](https://github.com/mahira13/LiveStreaming_videosdk/assets/73304467/8ba6d32e-9ef4-4c34-b616-e2a7178feb21)
+![Screenshot 2024-06-08 192444](https://github.com/mahira13/LiveStreaming_videosdk/assets/73304467/ede9f833-d07f-48b0-b65a-822e2160d3ea)
